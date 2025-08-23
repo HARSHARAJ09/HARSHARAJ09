@@ -6,7 +6,7 @@ I’m driven to contribute fresh energy, quick learning, and a problem-solving m
 
 - I’m currently working on **private repository.**
 
-- I’m currently learning **React,Spring,Spring Boot,Microservices.**
+- I’m currently learning **React,Spring,Spring Boot.**
 
 - You can contact me through **harsharajbsy@gmail.com**
 
