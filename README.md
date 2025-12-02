@@ -32,7 +32,8 @@ I’m driven to contribute fresh energy, quick learning, and a problem-solving m
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="Maven" width="40" height="40"/> </a>
-  
+  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg" alt="GitHub copilot" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="GitHub copilot" width="40" height="40"/> </a>
   
   
 </p>
