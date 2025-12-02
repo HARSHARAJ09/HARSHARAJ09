@@ -6,7 +6,7 @@ I’m driven to contribute fresh energy, quick learning, and a problem-solving m
 
 - I’m currently working on **private repository.**
 
-- I’m currently learning **Spring,Spring Boot.**
+- I’m currently learning **Microservices Architecture, Apache Kafka and Redis.**
 
 - You can contact me through **harsharajbsy@gmail.com**
 
