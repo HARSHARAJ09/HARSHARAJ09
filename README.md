@@ -37,6 +37,7 @@ I’m driven to contribute fresh energy, quick learning, and a problem-solving m
   <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg" alt="GitHub copilot" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40"/> </a>
    <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/> </a>
-  
+  <a href="https://swagger.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/your-username/your-repo/main/swagger.svg" alt="Swagger" width="40" height="40"/></a>
+
   
 </p>
