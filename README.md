@@ -7,7 +7,7 @@ mindset, along with a commitment to contributing meaningfully to a forward-think
 
 - I’m currently working on **private repository.**
 
-- I’m currently learning **Microservices Architecture, Apache Kafka and Redis.**
+- I’m currently learning **Apache Kafka and Redis.**
 
 - You can contact me through **harsharajbsy@gmail.com**
 
