@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harsha B</h1>
-<h3 align="center">A passionate tech enthusiast and recent Computer Science graduate, eager to begin my career by transforming ideas into
+<h3 align="center">A passionate tech enthusiast and Computer Science graduate, eager to begin my career by transforming ideas into
 reliable and impactful software solutions. I bring fresh energy, strong problem-solving skills, and a fast-learning
 mindset, along with a commitment to contributing meaningfully to a forward-thinking engineering team.😎</h3>
 
